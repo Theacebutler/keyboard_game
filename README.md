@@ -14,3 +14,9 @@ Run the game
 python key_game
 ```
 Exit with ctrl+C or ctrl+D
+
+## Up next
+[] words
+[] keybindings
+[] vim
+[] other keys like alt, cmd, super ext
