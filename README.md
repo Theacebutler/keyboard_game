@@ -1,7 +1,7 @@
 # Welcome to KeyBoard Game
 
 ## Game concept 
-Practice key placement and typeing
+Practice key placement and typing
 
 ## Run the game
 clone the repo
